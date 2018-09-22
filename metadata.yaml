@@ -1,0 +1,31 @@
+_repo: Lovers-Saint-Ruth-s-and-Three-Other-Tales_55601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L.I.
+    - Guiney, L. I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+description: ''
+gutenberg_issued: '2017-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Lovers' Saint Ruth's -- Our Lady of the Union -- An event on the
+  river -- The provider.
+title: Lovers' Saint Ruth's, and Three Other Tales
+url: http://www.gutenberg.org/ebooks/55601
